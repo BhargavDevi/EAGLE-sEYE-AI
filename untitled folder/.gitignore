@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Build directories
+/build/
+/bin/
+/dist/
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# MacOS system files
+.DS_Store
